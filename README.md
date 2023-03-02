@@ -1,6 +1,5 @@
 
-Este repositório contém diretórios e grupos para o gerenciamento de permissões de acesso em um sistema de arquivos.
-
+Este repositório contém diretórios e grupos para o gerenciamento de permissões de acesso em um sistema de arquivos. O arquivo `script.sh` foi criado usando a distribuição Ubuntu server do GNU/Linux. Por ser um bash genérico que deve funcionar na maioria das distribuições Linux, pois ele usa comandos comuns que estão disponíveis em várias versões do sistema operacional.
 ## Diretórios 📂
 
 Os seguintes diretórios foram criados neste repositório:
